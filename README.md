@@ -19,14 +19,14 @@
 ## 🚀 Installation
 
 ```bash
-$ git clone https://github.com/GuidoFavara/Tinder-Front
+$ git clone https://github.com/GuidoFavara/Portfolio-React
 ```
 
 
 ### 💻 Web
 
 ```bash
-$ cd Tinder-Front
+$ cd Portfolio-React
 $ npm install
 $ npm start
 ```
