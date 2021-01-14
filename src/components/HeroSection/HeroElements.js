@@ -20,7 +20,7 @@ export const HeroContainer = styled.div`
   position: relative;
   z-index: 1;
   //background: #e0e4eb; /*este */
-  background: red;
+  //background: red;
 
   /*:before {
     content: "";

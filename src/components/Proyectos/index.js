@@ -63,7 +63,7 @@ const Proyectos = () => {
         </ServicesCard>
       </ServicesWrapper>
        <Repository
-                    href="//www.linkedin.com/in/guido-favara/"
+                    href="https://github.com/GuidoFavara"
                     target="_blank"
                     arial-label="LinkedIn" 
                   >

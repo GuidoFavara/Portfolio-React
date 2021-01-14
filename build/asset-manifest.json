@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.61d0a6bd.chunk.css",
-    "main.js": "/static/js/main.2c24aae9.chunk.js",
-    "main.js.map": "/static/js/main.2c24aae9.chunk.js.map",
+    "main.js": "/static/js/main.494b77f2.chunk.js",
+    "main.js.map": "/static/js/main.494b77f2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b87d16c0.js",
     "runtime-main.js.map": "/static/js/runtime-main.b87d16c0.js.map",
     "static/js/2.6ab0f703.chunk.js": "/static/js/2.6ab0f703.chunk.js",
@@ -11,7 +11,7 @@
     "static/css/main.61d0a6bd.chunk.css.map": "/static/css/main.61d0a6bd.chunk.css.map",
     "static/js/2.6ab0f703.chunk.js.LICENSE.txt": "/static/js/2.6ab0f703.chunk.js.LICENSE.txt",
     "static/media/coins.0107dcb7.jpg": "/static/media/coins.0107dcb7.jpg",
-    "static/media/fondo.40d35305.jpg": "/static/media/fondo.40d35305.jpg",
+    "static/media/fondo2.18d564a6.jpg": "/static/media/fondo2.18d564a6.jpg",
     "static/media/netflix.fbb9a8a4.jpg": "/static/media/netflix.fbb9a8a4.jpg",
     "static/media/sobre-mi.svg": "/static/media/sobre-mi.38726cba.svg",
     "static/media/svg-1.svg": "/static/media/svg-1.b87cb0e5.svg",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.b87d16c0.js",
     "static/js/2.6ab0f703.chunk.js",
     "static/css/main.61d0a6bd.chunk.css",
-    "static/js/main.2c24aae9.chunk.js"
+    "static/js/main.494b77f2.chunk.js"
   ]
 }
