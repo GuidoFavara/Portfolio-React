@@ -26,7 +26,7 @@ const Proyectos = () => {
             React, Firebase, Bebel, Fuse.
           </ServicesP>
           <Linkero
-                  href="https://github.com/GuidoFavara/Netflix-Clone"
+                  href="https://guido-net.netlify.app"
                   target="_blank"
                   arial-label="LinkedIn"
                 >
@@ -65,9 +65,9 @@ const Proyectos = () => {
        <Repository
                     href="https://github.com/GuidoFavara"
                     target="_blank"
-                    arial-label="LinkedIn" 
+                    arial-label="Github" 
                   >
-                  Ver Repositorio
+                  Ver Source
                   </Repository>
     </ServicesContainer>
 
