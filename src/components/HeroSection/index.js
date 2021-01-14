@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 //import Video from "../../videos/video.mp4"; /* Si quiero un fondo de video habilito esto y cambio ImgBG por VideoBg */
-import Img from "../../images/fondo.jpg";
+import Img from "../../images/fondo2.jpg";
 import { Button } from "../ButtonElement";
 import {
   HeroContainer,

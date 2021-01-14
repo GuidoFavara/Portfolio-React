@@ -11,6 +11,7 @@ export const Repository = styled.a` /* Link boton */
   font-size: 16px;
   outline: none;
   border: none;
+  padding-bottom: 10px;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
   &.hover {

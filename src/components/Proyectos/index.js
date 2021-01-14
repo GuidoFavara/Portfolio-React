@@ -62,14 +62,15 @@ const Proyectos = () => {
                 </Linkero>
         </ServicesCard>
       </ServicesWrapper>
-      {/* <Repository
+       <Repository
                     href="//www.linkedin.com/in/guido-favara/"
                     target="_blank"
                     arial-label="LinkedIn" 
                   >
                   Ver Repositorio
-                  </Repository> */}
+                  </Repository>
     </ServicesContainer>
+
   );
 };
 

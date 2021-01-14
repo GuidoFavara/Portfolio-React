@@ -7,6 +7,7 @@ export const ServicesContainer = styled.div`
   justify-content: center;
   align-items: center;
   background: #010606;
+  padding-bottom: 100px;
 
   @media screen and (max-width: 768px) {
     height: 1100px;
@@ -67,7 +68,7 @@ export const ServicesH1 = styled.h1`
   margin-bottom: 64px;
 
   @media screen and (max-width: 768px) {
-    font-size: 1rem;
+    font-size: 2.5rem;
     margin-bottom: 10px;
   }
 `;

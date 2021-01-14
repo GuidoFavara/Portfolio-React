@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const ServicesContainer = styled.div` /* Contenedor */
-  height: 800px;
+  height: 700px; /* 800 */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -13,7 +13,7 @@ export const ServicesContainer = styled.div` /* Contenedor */
   }
 
   @media screen and (max-width: 480px) {
-    height: 1300px;
+    height: 1300px; /* 1300*/
   }
 `;
 
@@ -55,7 +55,7 @@ a
   }
 `;
 
-export const ServicesIcon = styled.img` /* Tamaño imagnes */
+export const ServicesIcon = styled.img` /* Tamaño imagenes */
   height: 200px;
   width: 210px;
   margin-bottom: 10px;
@@ -67,7 +67,7 @@ export const ServicesH1 = styled.h1` /* Titulo de entrada */
   margin-bottom: 64px;
 
   @media screen and (max-width: 768px) {
-    font-size: 1rem;
+    font-size: 2.5rem;
     margin-bottom: 10px;
   }
 `;

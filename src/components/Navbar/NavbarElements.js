@@ -14,7 +14,7 @@ export const Nav = styled.nav`
   top: 0;
   z-index: 10;
   @media screen and (max-width: 960px) {
-    transition: 0.8s all ease;
+    transition: 1.5s all ease;
   }
 `;
 
@@ -96,6 +96,7 @@ export const NavBtnLink = styled.a`
   padding: 10px 22px;
   color: #010606;
   font-size: 16px;
+  //font-weight: bold;
   outline: none;
   border: none;
   cursor: pointer;
